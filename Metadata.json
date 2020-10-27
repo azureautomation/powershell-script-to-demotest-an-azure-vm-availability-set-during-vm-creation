@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 7396,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-demotest-an-azure-vm-availability-set-during-vm-creation/master/Demo-AvailabilitySet2.ps1",
+    "DownloadCount": 754,
+    "Id": "Powershell-script-to-8c4e8fd2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 452,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-12-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Powershell script to Demo/Test an Azure VM Availability Set during VM creation.The attached PS script creates Azure Storage Account, Cloud Service, 2 VMs under the same Cloud Service, assigning each of them to the same Availability Set at VM creating time. Availability Set is an",
+    "Title": "Powershell script to Demo/Test an Azure VM Availability Set during VM creation",
+    "UpdatedDate": "2015-12-14T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-demotest-an-azure-vm-availability-set-during-vm-creation",
+    "UserTags": "Powershell script Azure VM Availability Set"
+}
